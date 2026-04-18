@@ -5,6 +5,7 @@ HTML and Machine status card
 !DOCTYPE html>
 <html>
 <head>
+  
   <title>Machine Status</title>
   <style>
     body {
